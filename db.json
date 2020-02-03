@@ -1,19 +1,17 @@
 {
-  "users": [
-    {
-      "id": 1,
-      "username":"test",
-      "password":"1111"
+    "user": {
+        "estado": 1,
+        "_id": "5e218e72848222195a2d3358",
+        "rol": "Administrador",
+        "nombre": "carlos",
+        "tipo_documento": "DNI",
+        "num_documento": "23232323S",
+        "direccion": "Mi casa",
+        "telefono": "545456456",
+        "email": "carlos@mail.com",
+        "password": "$2a$10$wrqsK8w6XXFce//LkNsR4e48Go6G4qAxOxiQ9/YmjjS8Xw7hbRZxC",
+        "createdAt": "2020-01-17T10:37:38.693Z",
+        "__v": 0
     },
-    {
-      "id": 2,
-      "username":"test2",
-      "password":"1111"
-    },
-    {
-      "id": 3,
-      "username":"test3",
-      "password":"1111"
-    }
-  ]
+    "tokenReturn": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1ZTIxOGU3Mjg0ODIyMjE5NWEyZDMzNTgiLCJyb2wiOiJBZG1pbmlzdHJhZG9yIiwiZW1haWwiOiJjYXJsb3NAbWFpbC5jb20iLCJpYXQiOjE1ODA3NDcyNjAsImV4cCI6MTU4MDgzMzY2MH0.l2sQnentknYeIdseMogiKTeM9GH7HXyg0_huYbNHD_o"
 }
