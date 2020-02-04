@@ -12,6 +12,5 @@
         "password": "$2a$10$wrqsK8w6XXFce//LkNsR4e48Go6G4qAxOxiQ9/YmjjS8Xw7hbRZxC",
         "createdAt": "2020-01-17T10:37:38.693Z",
         "__v": 0
-    },
-    "tokenReturn": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1ZTIxOGU3Mjg0ODIyMjE5NWEyZDMzNTgiLCJyb2wiOiJBZG1pbmlzdHJhZG9yIiwiZW1haWwiOiJjYXJsb3NAbWFpbC5jb20iLCJpYXQiOjE1ODA3NDcyNjAsImV4cCI6MTU4MDgzMzY2MH0.l2sQnentknYeIdseMogiKTeM9GH7HXyg0_huYbNHD_o"
+    }
 }
